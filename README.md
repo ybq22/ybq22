@@ -1,1 +1,3 @@
-![小明的 GitHub 統計](https://github-readme-stats.vercel.app/api?username=ybq22&show_icons=true&theme=radical)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
